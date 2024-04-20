@@ -8,7 +8,7 @@
 ### Model Downloads
 - For downloading the Bellande Motion Probabilistic Models, please visit [Bellande Artificial Intelligence & Computer Vision Research Innovation Center Website](https://artificial-intelligence-computer-vision.github.io)
 
-### API Documentation
+### Models Information
 - **2D Space**: Users can download the 2D model from [Hugging Face - Bellande Artificial Intelligence & Computer Vision Research Innovation Center](https://huggingface.co/Artificial-Intelligence-Computer-Vision)
 - **3D Space**: Downloadable resources related to the 3D space dimension can be accessed from [Bellande Artificial Intelligence & Computer Vision Research Innovation Center](https://artificial-intelligence-computer-vision.github.io).
 - **4D Space**: Resources pertaining to the 4D space dimension can also be found on [Bellande Artificial Intelligence & Computer Vision Research Innovation Center](https://artificial-intelligence-computer-vision.github.io).
